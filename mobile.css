@@ -171,9 +171,7 @@
         flex-direction: column;
         margin: 0 auto;
     }
-    .soft__input{
-        min-width: 240px;
-    }
+   
     .container{
         width: 100%;
     }
